@@ -1,5 +1,9 @@
 # PHP Practice
 
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-learning-yellow)
+
 PHPの基礎を体に染み込ませるために作成した、小さな練習用アプリ集です。フォームの送信・受け取り、バリデーション、計算処理など、PHPの基本パターンを繰り返し練習することを目的にしています。
 
 ## アプリ一覧
