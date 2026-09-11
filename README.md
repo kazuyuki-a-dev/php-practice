@@ -16,11 +16,23 @@ PHPの基礎を体に染み込ませるために作成した、小さな練習�
 
 ## スクリーンショット
 
-<img src="docs/screenshots/bmi.png" width="320"> <img src="docs/screenshots/tax.png" width="320"> <img src="docs/screenshots/warikan.png" width="320">
-
-<img src="docs/screenshots/age.png" width="320"> <img src="docs/screenshots/janken.png" width="320"> <img src="docs/screenshots/discount.png" width="320">
-
-<img src="docs/screenshots/convert.png" width="320">
+<table>
+<tr>
+<td><img src="docs/screenshots/bmi.png" width="280"></td>
+<td><img src="docs/screenshots/tax.png" width="280"></td>
+<td><img src="docs/screenshots/warikan.png" width="280"></td>
+</tr>
+<tr>
+<td><img src="docs/screenshots/age.png" width="280"></td>
+<td><img src="docs/screenshots/janken.png" width="280"></td>
+<td><img src="docs/screenshots/discount.png" width="280"></td>
+</tr>
+<tr>
+<td><img src="docs/screenshots/convert.png" width="280"></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 ## 学んだこと
 
