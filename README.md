@@ -16,21 +16,11 @@ PHPの基礎を体に染み込ませるために作成した、小さな練習�
 
 ## スクリーンショット
 
-| BMI計算機                              | 消費税計算機                              |
-| -------------------------------------- | ----------------------------------------- |
-| ![BMI計算機](docs/screenshots/bmi.png) | ![消費税計算機](docs/screenshots/tax.png) |
+<img src="docs/screenshots/bmi.png" width="320"> <img src="docs/screenshots/tax.png" width="320"> <img src="docs/screenshots/warikan.png" width="320">
 
-| 割り勘計算機                                  | 年齢計算機                              |
-| --------------------------------------------- | --------------------------------------- |
-| ![割り勘計算機](docs/screenshots/warikan.png) | ![年齢計算機](docs/screenshots/age.png) |
+<img src="docs/screenshots/age.png" width="320"> <img src="docs/screenshots/janken.png" width="320"> <img src="docs/screenshots/discount.png" width="320">
 
-| じゃんけんゲーム                                 | 割引計算機                                   |
-| ------------------------------------------------ | -------------------------------------------- |
-| ![じゃんけんゲーム](docs/screenshots/janken.png) | ![割引計算機](docs/screenshots/discount.png) |
-
-| 単位変換ツール                                  |     |
-| ----------------------------------------------- | --- |
-| ![単位変換ツール](docs/screenshots/convert.png) |     |
+<img src="docs/screenshots/convert.png" width="320">
 
 ## 学んだこと
 
